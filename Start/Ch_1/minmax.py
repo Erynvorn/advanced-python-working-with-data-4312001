@@ -12,7 +12,6 @@ strings = ["one", "three", "five", "seven", "eleven", "eighteen"]
 
 
 # TODO: The max() function finds the maximum value
- 
 
 # TODO: define a custom "key" function to extract a data field
 
