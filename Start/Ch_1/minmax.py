@@ -17,6 +17,6 @@ strings = ["one", "three", "five", "seven", "eleven", "eighteen"]
 # TODO: define a custom "key" function to extract a data field
 
 # TODO: open the data file and load the JSON
-with open("../../Users/danielseite/Documents/Project Python 2026/30DayQuakes.json", "r") as datafile:
+with open("/Users/danielseite/Documents/Project Python 2026/30DayQuakes.json", "r") as datafile:
     data = json.load(datafile)
 print("Hello Worlds")
